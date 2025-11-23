@@ -1,0 +1,1 @@
+console.log("BRITTO's first code in JAVA SCRIPT")
